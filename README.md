@@ -1365,6 +1365,7 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[Lum1104/understand-anything](https://github.com/Lum1104/Understand-Anything)** - Interactive codebase knowledge graphs via multi-agent LLM analysis
 - **[hqhq1025/skill-optimizer](https://github.com/hqhq1025/skill-optimizer)** - Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent
 - **[LambdaTest/agent-skills](https://github.com/LambdaTest/agent-skills)** - TestMu AI (Formerly LambdaTest) Skills is a curated collection of Agent Skills that teach AI coding assistants how to write production-grade test automation.
+- **[porkboi/mathPDFsummarizer](https://github.com/porkboi/mathPDFsummarizer.git)** - Summarize and generate mathematical equations and pseudocode directly from research papers.
 
 </details>
 
